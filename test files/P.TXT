@@ -1,0 +1,25 @@
+UNIVERSIDAD DE SAN CARLOS DE GUATEMALA
+FACULTAD DE INGENIERIA
+ESCUELA DE CIENCIAS Y SISTEMAS
+ARQUITECTURA DE COMPUTADORAS Y ENSAMBLADORES 1 A
+SEGUNDO SEMESTRE 2017
+FERNANDO JOSUE FLORES VALDEZ
+201504385
+
+REPORTE PRACTICA NO. 2
+
+Date:	223/09/2017
+Time:	16:19:28
+
+Input:			 2 + 3 * 4 + 10 / 2 + 3 * 4 + 10 + 99 + 12 / 12 - 22 * 8 - 18 + 77 * 10;
+
+Answer: 		717;
+
+Prefix Notation:	 + - - + + + + + + 2 * 3 4 / 10 2 * 3 4 10 99 / 12 12 * 22 8 18 * 77 10;
+
+Postfix Notation:	 2 3 4 * + 10 2 / + 3 4 * + 10 + 99 + 12 12 / + 22 8 * - 18 - 77 10 * +;
+
+Factorial: 		0;
+
+
+Answer: 		1;
